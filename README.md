@@ -2,7 +2,7 @@
 
 This is introduction tutorials to C++ programming language for beginners.
 
-Contents:
+Contents:\n
 1 - Hello World
 2 - Variables
 3 - Input output
